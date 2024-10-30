@@ -1,0 +1,14 @@
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\bin\Debug\net8.0\aula_3.exe
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\bin\Debug\net8.0\aula_3.deps.json
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\bin\Debug\net8.0\aula_3.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\bin\Debug\net8.0\aula_3.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\bin\Debug\net8.0\aula_3.pdb
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\refint\aula_3.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.pdb
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\aula_3.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\aula_3\obj\Debug\net8.0\ref\aula_3.dll
