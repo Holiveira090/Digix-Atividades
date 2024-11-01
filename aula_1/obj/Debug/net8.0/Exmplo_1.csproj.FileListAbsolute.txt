@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\bin\Debug\net8.0\Exmplo_1.exe
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\bin\Debug\net8.0\Exmplo_1.deps.json
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\bin\Debug\net8.0\Exmplo_1.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\bin\Debug\net8.0\Exmplo_1.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\bin\Debug\net8.0\Exmplo_1.pdb
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\refint\Exmplo_1.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.pdb
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\ref\Exmplo_1.dll
+C:\Users\henriqueoliveira\Desktop\Aula_1\Exmplo_1\obj\Debug\net8.0\Exmplo_1.sourcelink.json
