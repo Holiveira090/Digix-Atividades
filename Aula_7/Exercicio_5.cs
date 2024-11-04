@@ -22,17 +22,37 @@ namespace Exercicio_5
                 }
             }
 
-            // Exibição da matriz no formato correto
-            Console.WriteLine("\nMatriz:");
-            for (int i = 0; i < matriz.GetLength(0); i++)
+            // Exibição da matriz original
+            Console.WriteLine("\nMatriz Original:");
+            for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < matriz.GetLength(1); j++)
+                for (int j = 0; j < n; j++)
                 {
                     Console.Write(matriz[i, j] + "\t");
                 }
-                Console.WriteLine(); 
+                Console.WriteLine();
             }
-            
+
+            // Rotacionando a matriz 90 graus no sentido horário
+            int[,] matrizRotacionada = new int[n, n];
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    matrizRotacionada[j, n - i - 1] = matriz[i, j];
+                }
+            }
+
+            // Exibição da matriz rotacionada
+            Console.WriteLine("\nMatriz Rotacionada 90 graus:");
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write(matrizRotacionada[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
