@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5", "Aula_5\Aula_5.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6", "Aula_6\Aula_6.csproj", "{726c50f7-e36e-4d0d-beec-dc2cfba78cda}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_7", "Aula_7\Aula_7.csproj", "{0b72fda2-59a9-4775-8fbe-43d7df71b978}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios_Revisao", "Exercicios_Revisao\Exercicios_Revisao.csproj", "{7aba23a5-5118-4ede-b1cc-b0ba4b925274}"
 EndProject
 Global
