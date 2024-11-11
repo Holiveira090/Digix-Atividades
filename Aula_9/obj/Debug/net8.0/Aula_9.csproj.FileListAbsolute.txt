@@ -1,0 +1,13 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\bin\Debug\net8.0\Aula_9.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\bin\Debug\net8.0\Aula_9.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\bin\Debug\net8.0\Aula_9.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\bin\Debug\net8.0\Aula_9.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\bin\Debug\net8.0\Aula_9.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_9\obj\Debug\net8.0\Aula_9.genruntimeconfig.cache

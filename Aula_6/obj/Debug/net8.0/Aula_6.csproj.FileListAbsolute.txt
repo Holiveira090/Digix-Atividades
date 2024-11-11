@@ -8,7 +8,6 @@ C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.Ass
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.csproj.CoreCompileInputs.cache
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.sourcelink.json
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.dll
-C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\refint\Aula_6.dll
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.pdb
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\Aula_6.genruntimeconfig.cache
-C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\obj\Debug\net8.0\ref\Aula_6.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_6\bin\Debug\net8.0\Aula_6.pdb

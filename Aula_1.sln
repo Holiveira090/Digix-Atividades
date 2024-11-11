@@ -19,7 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_7", "Aula_7\Aula_7.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_8", "Aula_8\Aula_8.csproj", "{c9ff3c33-1766-40ab-8644-f5ae16a8924e}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_9", "Aula_9\Aula_9.csproj", "{f8a4259e-3da8-4cd7-b428-61770106f7f7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_10", "Aula_10\Aula_10.csproj", "{01ca6d9e-a0a6-43b6-887c-e318af544645}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios_Revisao", "Exercicios_Revisao\Exercicios_Revisao.csproj", "{7aba23a5-5118-4ede-b1cc-b0ba4b925274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios", "Desafios\Desafios.csproj", "{4841AAA0-8D0F-416A-B06A-1FB1B7FC10D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,14 @@ Global
 		{7A06A10E-B917-4EBC-A171-AFC9A40F2E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A06A10E-B917-4EBC-A171-AFC9A40F2E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A06A10E-B917-4EBC-A171-AFC9A40F2E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4841AAA0-8D0F-416A-B06A-1FB1B7FC10D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4841AAA0-8D0F-416A-B06A-1FB1B7FC10D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4841AAA0-8D0F-416A-B06A-1FB1B7FC10D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4841AAA0-8D0F-416A-B06A-1FB1B7FC10D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB5D0D7-AB6E-43A5-85A0-15BB6C2FBD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB5D0D7-AB6E-43A5-85A0-15BB6C2FBD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB5D0D7-AB6E-43A5-85A0-15BB6C2FBD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB5D0D7-AB6E-43A5-85A0-15BB6C2FBD59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
