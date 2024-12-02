@@ -42,29 +42,23 @@
 //             contador++;
 //         }
 
-//         // Desenfileirar é remover o elemento do início da fila
-//         static void Desenfileirar()
+//         static void Tamanho()
 //         {
+//             int contador = 0;
 //             if (inicio == null)
 //             {
 //                 Console.WriteLine("Fila vazia!");
 //                 return;
 //             }
-
-//             Console.WriteLine($"Desenfileirando {inicio.valor}");
-
-//             // Atualiza o início da fila
-//             inicio = inicio.proximo;
-
-//             // Se a fila ficou vazia, atualiza o fim da fila
-//             if (inicio == null)
+//             Node? atual = inicio;
+//             while (atual != null)
 //             {
-//                 fim = null;
+//                 atual = atual.proximo;
+//                 contador++;
 //             }
-
-//             // Decrementa o contador
-//             contador--;
+//             System.Console.WriteLine(contador);
 //         }
+
 
 //         // Listar a Fila
 //         static void Listar()
@@ -88,14 +82,11 @@
 //             Enfileirar(10);
 //             Enfileirar(20);
 //             Enfileirar(30);
+//             Enfileirar(40);
+//             Enfileirar(50);
 //             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
+//             System.Console.WriteLine($"O tamnho da fila é: ");
+//             Tamanho();
 //         }
 //     }
 // }

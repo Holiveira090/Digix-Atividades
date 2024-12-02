@@ -3,9 +3,9 @@
 // using System.Linq;
 // using System.Threading.Tasks;
 
-// namespace Aula_14
+// namespace Exercicio_2
 // {
-//     public class Fila
+//     public class Exercicio_2
 //     {
 //         class Node
 //         {
@@ -41,31 +41,6 @@
 //             // Incrementa o contador
 //             contador++;
 //         }
-
-//         // Desenfileirar é remover o elemento do início da fila
-//         static void Desenfileirar()
-//         {
-//             if (inicio == null)
-//             {
-//                 Console.WriteLine("Fila vazia!");
-//                 return;
-//             }
-
-//             Console.WriteLine($"Desenfileirando {inicio.valor}");
-
-//             // Atualiza o início da fila
-//             inicio = inicio.proximo;
-
-//             // Se a fila ficou vazia, atualiza o fim da fila
-//             if (inicio == null)
-//             {
-//                 fim = null;
-//             }
-
-//             // Decrementa o contador
-//             contador--;
-//         }
-
 //         // Listar a Fila
 //         static void Listar()
 //         {
@@ -82,20 +57,32 @@
 //                 atual = atual.proximo;
 //             }
 //         }
+//         static void Contem(int valor)
+//         {
+//             Node? atual = inicio;
+//             while (atual != null)
+//             {
+//                 if (atual.valor == valor)
+//                 {
+//                     Console.WriteLine($"{valor} True");
+//                     return;
+//                 }
+//                 atual = atual.proximo;
+//             }
+
+//             // Se não encontrou o valor
+//             Console.WriteLine($"{valor} False");
+//         }
 
 //         static void Main()
 //         {
 //             Enfileirar(10);
 //             Enfileirar(20);
 //             Enfileirar(30);
+//             Enfileirar(40);
 //             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
+//             Contem(20);
+//             Contem(50);
 //         }
 //     }
 // }
