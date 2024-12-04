@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\bin\Debug\net8.0\Aula_15_OO.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\bin\Debug\net8.0\Aula_15_OO.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\bin\Debug\net8.0\Aula_15_OO.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\bin\Debug\net8.0\Aula_15_OO.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\bin\Debug\net8.0\Aula_15_OO.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\refint\Aula_15_OO.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\Aula_15_OO.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_15_OO\obj\Debug\net8.0\ref\Aula_15_OO.dll
