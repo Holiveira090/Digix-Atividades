@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\bin\Debug\net8.0\Aula_17_OO_Visibilidade.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\bin\Debug\net8.0\Aula_17_OO_Visibilidade.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\bin\Debug\net8.0\Aula_17_OO_Visibilidade.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\bin\Debug\net8.0\Aula_17_OO_Visibilidade.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\bin\Debug\net8.0\Aula_17_OO_Visibilidade.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\refint\Aula_17_OO_Visibilidade.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\Aula_17_OO_Visibilidade.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_Visibilidade\obj\Debug\net8.0\ref\Aula_17_OO_Visibilidade.dll

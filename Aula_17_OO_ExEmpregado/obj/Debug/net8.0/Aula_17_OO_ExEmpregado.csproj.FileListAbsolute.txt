@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\bin\Debug\net8.0\Aula_17_OO_ExEmpregado.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\bin\Debug\net8.0\Aula_17_OO_ExEmpregado.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\bin\Debug\net8.0\Aula_17_OO_ExEmpregado.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\bin\Debug\net8.0\Aula_17_OO_ExEmpregado.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\bin\Debug\net8.0\Aula_17_OO_ExEmpregado.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\refint\Aula_17_OO_ExEmpregado.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\Aula_17_OO_ExEmpregado.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExEmpregado\obj\Debug\net8.0\ref\Aula_17_OO_ExEmpregado.dll

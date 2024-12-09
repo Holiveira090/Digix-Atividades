@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\bin\Debug\net8.0\Aula_17_OO_ExProdutos.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\bin\Debug\net8.0\Aula_17_OO_ExProdutos.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\bin\Debug\net8.0\Aula_17_OO_ExProdutos.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\bin\Debug\net8.0\Aula_17_OO_ExProdutos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\bin\Debug\net8.0\Aula_17_OO_ExProdutos.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\refint\Aula_17_OO_ExProdutos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\Aula_17_OO_ExProdutos.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_17_OO_ExProdutos\obj\Debug\net8.0\ref\Aula_17_OO_ExProdutos.dll

@@ -3,37 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_1", "Aula_1\Aula_1.csproj", "{7A06A10E-B917-4EBC-A171-AFC9A40F2E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_1_BasicoC#", "aula_1_BasicoC#\aula_1_BasicoC#.csproj", "{7A06A10E-B917-4EBC-A171-AFC9A40F2E80}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_2", "Aula_2\Aula_2.csproj", "{ce8bb0c9-1b3b-4376-9677-0276f71234c0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_2_BasicoC#", "aula_2_BasicoC#\aula_2_BasicoC#.csproj", "{ce8bb0c9-1b3b-4376-9677-0276f71234c0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_3", "Aula_3\Aula_3.csproj", "{bf1bcb1c-dc90-45f9-88d4-8157126b5b44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_3_EstruturaCondicional", "aula_3_EstruturaCondicional\aula_3_EstruturaCondicional.csproj", "{bf1bcb1c-dc90-45f9-88d4-8157126b5b44}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_4", "Aula_4\Aula_4.csproj", "{f1ea5bc1-12e6-4ebb-9423-7063d4728146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_4_LacoRepeticao", "Aula_4_LacoRepeticao\Aula_4_LacoRepeticao.csproj", "{f1ea5bc1-12e6-4ebb-9423-7063d4728146}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5", "Aula_5\Aula_5.csproj", "{88d8ab70-bf96-4b0e-936e-8102b322cbc3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5_Vetor", "Aula_5_Vetor\Aula_5_Vetor.csproj", "{88d8ab70-bf96-4b0e-936e-8102b322cbc3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6", "Aula_6\Aula_6.csproj", "{726c50f7-e36e-4d0d-beec-dc2cfba78cda}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6_Matriz", "Aula_6_Matriz\Aula_6_Matriz.csproj", "{726c50f7-e36e-4d0d-beec-dc2cfba78cda}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_7", "Aula_7\Aula_7.csproj", "{0b72fda2-59a9-4775-8fbe-43d7df71b978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_7_MatrizTridimensional", "Aula_7_MatrizTridimensional\Aula_7_MatrizTridimensional.csproj", "{0b72fda2-59a9-4775-8fbe-43d7df71b978}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_8", "Aula_8\Aula_8.csproj", "{c9ff3c33-1766-40ab-8644-f5ae16a8924e}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_8_Funcoes", "aula_8_Funcoes\aula_8_Funcoes.csproj", "{c9ff3c33-1766-40ab-8644-f5ae16a8924e}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_9", "Aula_9\Aula_9.csproj", "{f8a4259e-3da8-4cd7-b428-61770106f7f7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_9_Sobrecarga", "Aula_9_Sobrecarga\Aula_9_Sobrecarga.csproj", "{f8a4259e-3da8-4cd7-b428-61770106f7f7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_10", "Aula_10\Aula_10.csproj", "{01ca6d9e-a0a6-43b6-887c-e318af544645}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_10_Recursao", "Aula_10_Recursao\Aula_10_Recursao.csproj", "{01ca6d9e-a0a6-43b6-887c-e318af544645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_11", "Aula_11\Aula_11.csproj", "{A92CD747-0D93-4810-886A-090A5D6C1324}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_11_Ordenacao", "Aula_11_Ordenacao\Aula_11_Ordenacao.csproj", "{A92CD747-0D93-4810-886A-090A5D6C1324}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios_Revisao", "Exercicios_Revisao\Exercicios_Revisao.csproj", "{7aba23a5-5118-4ede-b1cc-b0ba4b925274}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio", "Desafio\Desafio.csproj", "{0B478091-473D-4CD9-8667-68251696499C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_12", "Aula_12\Aula_12.csproj", "{647A5099-B134-405A-95AD-5F0D519D5DC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_12_Ordenacao2", "Aula_12_Ordenacao2\Aula_12_Ordenacao2.csproj", "{647A5099-B134-405A-95AD-5F0D519D5DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_13", "Aula_13\Aula_13.csproj", "{7E828D68-CC50-4D61-931B-C8A1E0854970}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_13_Listas", "Aula_13_Listas\Aula_13_Listas.csproj", "{7E828D68-CC50-4D61-931B-C8A1E0854970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_14", "Aula_14\Aula_14.csproj", "{061FD11B-2B49-4603-8E46-64712E1D1674}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_14_ListasEncadeadas", "Aula_14_ListasEncadeadas\Aula_14_ListasEncadeadas.csproj", "{061FD11B-2B49-4603-8E46-64712E1D1674}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_15_OO", "Aula_15_OO\Aula_15_OO.csproj", "{1EE1F649-2963-42AD-ACC1-D66582578A3A}"
 EndProject
@@ -42,6 +42,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_16_OO_Henranca", "Aula_16_OO_Henranca\Aula_16_OO_Henranca.csproj", "{85322FD8-F125-43EA-96A9-61055A86D9F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_16_OO_Animal", "Aula_16_OO_Animal\Aula_16_OO_Animal.csproj", "{8C113206-C3A3-4E44-9264-68EFB69692F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Abstract", "Aula_17_OO_Abstract\Aula_17_OO_Abstract.csproj", "{659F05D9-E64D-4E5B-A055-95C0C9C87DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_ExEmpregado", "Aula_17_OO_ExEmpregado\Aula_17_OO_ExEmpregado.csproj", "{B397A62B-0A38-4B4D-A760-9D879CF0AC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_ExProdutos", "Aula_17_OO_ExProdutos\Aula_17_OO_ExProdutos.csproj", "{5F95E544-B8AD-4612-B0CA-5D9EA45D84E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Visibilidade", "Aula_17_OO_Visibilidade\Aula_17_OO_Visibilidade.csproj", "{F3C5FA70-14AA-4F80-814C-4B86BB7CC7DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{8C113206-C3A3-4E44-9264-68EFB69692F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C113206-C3A3-4E44-9264-68EFB69692F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C113206-C3A3-4E44-9264-68EFB69692F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659F05D9-E64D-4E5B-A055-95C0C9C87DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659F05D9-E64D-4E5B-A055-95C0C9C87DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659F05D9-E64D-4E5B-A055-95C0C9C87DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659F05D9-E64D-4E5B-A055-95C0C9C87DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B397A62B-0A38-4B4D-A760-9D879CF0AC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B397A62B-0A38-4B4D-A760-9D879CF0AC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B397A62B-0A38-4B4D-A760-9D879CF0AC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B397A62B-0A38-4B4D-A760-9D879CF0AC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F95E544-B8AD-4612-B0CA-5D9EA45D84E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F95E544-B8AD-4612-B0CA-5D9EA45D84E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F95E544-B8AD-4612-B0CA-5D9EA45D84E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F95E544-B8AD-4612-B0CA-5D9EA45D84E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C5FA70-14AA-4F80-814C-4B86BB7CC7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C5FA70-14AA-4F80-814C-4B86BB7CC7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C5FA70-14AA-4F80-814C-4B86BB7CC7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C5FA70-14AA-4F80-814C-4B86BB7CC7DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
