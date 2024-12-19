@@ -44,17 +44,31 @@ namespace Aula_20_OO_Relacoes
 
 
             // Exercicio
-            Estado estado = new Estado("Mato Grosso do Sul", "MS");
-            Cidade cidade = new Cidade("Campo Grande", estado);
-            Endereco endereco = new Endereco("auaua", 40, "oioi", "1233456", cidade);
-            EquipeVenda Ambulantes = new EquipeVenda("Ambulante");
-            Vendedor vendedor = new Vendedor("Jão", new DateTime(2024, 12, 18), "12345678910", endereco, Ambulantes);
-            System.Console.WriteLine($"Nome: {vendedor.Nome}");
-            System.Console.WriteLine($"Nascimento: {vendedor.Nascimento}");
-            System.Console.WriteLine($"CPF: {vendedor.CPF}");
-            System.Console.WriteLine($"Rua: {vendedor.Endereco.Rua} \nNumero: {vendedor.Endereco.Numero} \nBairro: {vendedor.Endereco.Bairro} \nCEP: {vendedor.Endereco.CEP} \nCidade: {cidade.Nome} \nEstado: {estado.Sigla}");
-            System.Console.WriteLine($"Salario {vendedor.getSalario()}");
+            // Estado estado = new Estado("Mato Grosso do Sul", "MS");
+            // Cidade cidade = new Cidade("Campo Grande", estado);
+            // Endereco endereco = new Endereco("auaua", 40, "oioi", "1233456", cidade);
+            // EquipeVenda Ambulantes = new EquipeVenda("Ambulante");
+            // Vendedor vendedor = new Vendedor("Jão", new DateTime(2024, 12, 18), "12345678910", endereco, Ambulantes);
+            // System.Console.WriteLine($"Nome: {vendedor.Nome}");
+            // System.Console.WriteLine($"Nascimento: {vendedor.Nascimento}");
+            // System.Console.WriteLine($"CPF: {vendedor.CPF}");
+            // System.Console.WriteLine($"Rua: {vendedor.Endereco.Rua} \nNumero: {vendedor.Endereco.Numero} \nBairro: {vendedor.Endereco.Bairro} \nCEP: {vendedor.Endereco.CEP} \nCidade: {cidade.Nome} \nEstado: {estado.Sigla}");
+            // System.Console.WriteLine($"Salario {vendedor.getSalario()}");
 
+
+            // Exercicio 19-12
+            Livro livro1 = new Livro("Teste", "teste", 1234, 3);
+            Livro livro2 = new Livro("teste1", "teste1", 2345, 5);
+            List<Livro> listaLivros = new List<Livro> { livro1, livro2 };
+            CatalogoDeLivros catalogo = new CatalogoDeLivros(listaLivros);
+            Biblioteca biblioteca = new Biblioteca("Biblioteca teste", "Rua teste 123", catalogo);
+            Funcionario funcionario = new Funcionario("jão", "12321312321","Bibliotecário", catalogo);
+            funcionario.AdicionarLivro(new Livro("teste2", "teste2", 3456, 4));
+            Leitor leitor = new Leitor("João", "123456789");
+            leitor.ConsultarLivros(catalogo);
+            leitor.PegarEmprestado(livro1);
+            leitor.DevolverLivro(livro1);
+            System.Console.WriteLine(biblioteca.Nome);
 
 
 
