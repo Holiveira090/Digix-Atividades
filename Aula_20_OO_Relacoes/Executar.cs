@@ -62,6 +62,7 @@ namespace Aula_20_OO_Relacoes
             List<Livro> listaLivros = new List<Livro> { livro1, livro2 };
             CatalogoDeLivros catalogo = new CatalogoDeLivros(listaLivros);
             Biblioteca biblioteca = new Biblioteca("Biblioteca teste", "Rua teste 123", catalogo);
+            List<Biblioteca> listaBibliotecas = new List<Biblioteca> {biblioteca};
             Funcionario funcionario = new Funcionario("jão", "12321312321","Bibliotecário", catalogo);
             funcionario.AdicionarLivro(new Livro("teste2", "teste2", 3456, 4));
             Leitor leitor = new Leitor("João", "123456789");
