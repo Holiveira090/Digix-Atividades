@@ -70,6 +70,7 @@ namespace Aula_20_OO_Relacoes
             leitor.PegarEmprestado(livro1);
             leitor.DevolverLivro(livro1);
             System.Console.WriteLine(biblioteca.Nome);
+            funcionario.RealizarEmprestimo(livro1);
 
 
 
