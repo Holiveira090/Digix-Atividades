@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\bin\Debug\net8.0\Aula_21_Desafio_3.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\bin\Debug\net8.0\Aula_21_Desafio_3.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\bin\Debug\net8.0\Aula_21_Desafio_3.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\bin\Debug\net8.0\Aula_21_Desafio_3.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\bin\Debug\net8.0\Aula_21_Desafio_3.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\refint\Aula_21_Desafio_3.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\Aula_21_Desafio_3.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_21_Desafio_3\obj\Debug\net8.0\ref\Aula_21_Desafio_3.dll
