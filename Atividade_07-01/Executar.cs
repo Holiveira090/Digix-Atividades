@@ -46,5 +46,5 @@ namespace Atividade_07_01
         }
     }
 }
-// Faltou fazer mais funções e adaptar outrar, não deu tempo, F
+// Faltou fazer mais funções e adaptar outras, não deu tempo, F
 // Que executar porcaria

@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\bin\Debug\net8.0\Aula_24_OO_excecao.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\bin\Debug\net8.0\Aula_24_OO_excecao.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\bin\Debug\net8.0\Aula_24_OO_excecao.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\bin\Debug\net8.0\Aula_24_OO_excecao.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\bin\Debug\net8.0\Aula_24_OO_excecao.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\refint\Aula_24_OO_excecao.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\Aula_24_OO_excecao.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_24_OO_excecao\obj\Debug\net8.0\ref\Aula_24_OO_excecao.dll
