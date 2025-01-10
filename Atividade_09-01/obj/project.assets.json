@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj",
-      "projectName": "Excecao",
-      "projectPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj",
+      "projectUniqueName": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Atividade_09-01\\Atividade_09-01.csproj",
+      "projectName": "Atividade_09-01",
+      "projectPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Atividade_09-01\\Atividade_09-01.csproj",
       "packagesPath": "C:\\Users\\henriqueoliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\obj\\",
+      "outputPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Atividade_09-01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henriqueoliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\bin\Debug\net8.0\Atividade_09-01.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\bin\Debug\net8.0\Atividade_09-01.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\bin\Debug\net8.0\Atividade_09-01.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\bin\Debug\net8.0\Atividade_09-01.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\bin\Debug\net8.0\Atividade_09-01.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\refint\Atividade_09-01.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\Atividade_09-01.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Atividade_09-01\obj\Debug\net8.0\ref\Atividade_09-01.dll

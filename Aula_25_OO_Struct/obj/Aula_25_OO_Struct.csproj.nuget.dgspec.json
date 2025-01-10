@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj": {}
+    "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Aula_25_OO_Struct\\Aula_25_OO_Struct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj": {
+    "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Aula_25_OO_Struct\\Aula_25_OO_Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj",
-        "projectName": "Excecao",
-        "projectPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\Excecao.csproj",
+        "projectUniqueName": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Aula_25_OO_Struct\\Aula_25_OO_Struct.csproj",
+        "projectName": "Aula_25_OO_Struct",
+        "projectPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Aula_25_OO_Struct\\Aula_25_OO_Struct.csproj",
         "packagesPath": "C:\\Users\\henriqueoliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Excecao\\obj\\",
+        "outputPath": "C:\\Users\\henriqueoliveira\\Desktop\\Aulas_Digix\\Aula_25_OO_Struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henriqueoliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
