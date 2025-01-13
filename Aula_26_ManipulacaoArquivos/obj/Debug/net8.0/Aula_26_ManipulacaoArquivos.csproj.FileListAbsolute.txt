@@ -1,0 +1,15 @@
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.AssemblyInfo.cs
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.sourcelink.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\Aula_26_ManipulacaoArquivos.exe
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\Aula_26_ManipulacaoArquivos.deps.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\Aula_26_ManipulacaoArquivos.runtimeconfig.json
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\Aula_26_ManipulacaoArquivos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\Aula_26_ManipulacaoArquivos.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\refint\Aula_26_ManipulacaoArquivos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.pdb
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.genruntimeconfig.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\ref\Aula_26_ManipulacaoArquivos.dll
