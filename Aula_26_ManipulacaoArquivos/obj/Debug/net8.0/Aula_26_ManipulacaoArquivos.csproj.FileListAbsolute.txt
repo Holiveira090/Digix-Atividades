@@ -13,3 +13,13 @@ C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\De
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.pdb
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.genruntimeconfig.cache
 C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\ref\Aula_26_ManipulacaoArquivos.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\RBush.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_ManipulacaoArquivos.csproj.AssemblyReference.cache
+C:\Users\henriqueoliveira\Desktop\Aulas_Digix\Aula_26_ManipulacaoArquivos\obj\Debug\net8.0\Aula_26_.921D09C8.Up2Date
