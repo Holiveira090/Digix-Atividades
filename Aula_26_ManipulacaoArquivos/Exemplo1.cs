@@ -10,7 +10,7 @@ namespace Aula_26_ManipulacaoArquivos
 
         static void Exe1()
         { 
-        // FIle é uma classes estatica que contem metodos para manipulação de arquivos
+        // File é uma classe estatica que contem metodos para manipulação de arquivos
         string inicioParh = @"C:\Users\henriqueoliveira\Desktop\Teste1.txt";
 
         string finalFile = @"C:\Users\henriqueoliveira\Desktop\Teste2.txt";
