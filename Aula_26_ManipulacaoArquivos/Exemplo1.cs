@@ -9,16 +9,16 @@ namespace Aula_26_ManipulacaoArquivos
     {
 
         static void Exe1()
-        { 
-        // File é uma classe estatica que contem metodos para manipulação de arquivos
-        string inicioParh = @"C:\Users\henriqueoliveira\Desktop\Teste1.txt";
+        {
+            // File é uma classe estatica que contem metodos para manipulação de arquivos
+            string inicioParh = @"C:\Users\henriqueoliveira\Desktop\Teste1.txt";
 
-        string finalFile = @"C:\Users\henriqueoliveira\Desktop\Teste2.txt";
+            string finalFile = @"C:\Users\henriqueoliveira\Desktop\Teste2.txt";
 
             try
             {
                 FileInfo fileInfo = new FileInfo(inicioParh); // Cria um objeto com referencia endereço criamos do arquivo
-        fileInfo.CopyTo(finalFile); // Copia do arquivo de origin para o destino
+                fileInfo.CopyTo(finalFile); // Copia do arquivo de origin para o destino
 
                 // Mostrar oq esta ecrito no arquivo inicioParh
                 string[] lines = File.ReadAllLines(inicioParh);
@@ -26,12 +26,12 @@ namespace Aula_26_ManipulacaoArquivos
                 {
                     System.Console.WriteLine(item);
                 }
-}
+            }
             catch (IOException e) // Tratamento especifico para manipular arquivo
             {
-                
+
                 System.Console.WriteLine("Ocorreu erro");
-System.Console.WriteLine("e.Message");
+                System.Console.WriteLine("e.Message");
             }
         }
     }

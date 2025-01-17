@@ -46,7 +46,7 @@ namespace Aula_26_ManipulacaoArquivos
             {
                 System.Console.WriteLine("ocorreu erro");
                 System.Console.WriteLine("e.Message");
-                
+
             }
         }
     }

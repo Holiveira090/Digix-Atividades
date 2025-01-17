@@ -16,7 +16,7 @@ namespace Aula_26_ManipulacaoArquivos
             System.Console.WriteLine($"Retorna o nome do arquivo {Path.GetFileName(inicioParh)}");
             System.Console.WriteLine($"Retorna o nome do arquivo sem a extensao {Path.GetFileNameWithoutExtension(inicioParh)}");
             System.Console.WriteLine($"Retorna somente a extenso do arquivo {Path.GetExtension(inicioParh)}");
-            
+
         }
     }
 }
